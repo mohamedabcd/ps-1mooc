@@ -62,7 +62,7 @@ Tout en pensant à la maintenabilité et scalabilité du projet
 ![usecase](https://github.com/mohamedabcd/ps-1mooc/blob/main/usecase.png?raw=true)
 
 # Conclusion
-|la proposition B répond aux éxigences demandées par le client. Tout en étant facile à implémenter, à maintenir et se rendre Scalable. Le budjet pour la mise en place de la proposition B n'est pas énorme sur la durée.   
+La proposition B répond aux éxigences demandées par le client. Tout en étant facile à implémenter, à maintenir et se rendre Scalable. Le budjet pour la mise en place de la proposition B n'est pas énorme sur la durée.   
 
 
 
